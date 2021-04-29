@@ -1,0 +1,20 @@
+body{
+
+  background-image: url('https://i.imgur.com/yFnMRAB.png');
+
+  background-repeat: no-repeat;
+
+  background-attachment: scroll;
+
+  background-position:
+  0px 0px;
+
+  background-size:
+  1444px 800px;
+}
+
+#video{
+  position:absolute;
+  right:270px;
+  top: 150px;
+}
